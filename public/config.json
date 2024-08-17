@@ -1,0 +1,56 @@
+{
+    "titel": "Fantastic Sites",
+    "description": "A collection of fantastic sites to visit",
+    "sites": [
+        {
+            "name": "Codetogo",
+            "description": "Codetogo you can find code snippets for your projects. You can also share your code snippets with others. It's a great place to find inspiration for your next project. Its is for Javascript & React",
+            "status": true,
+            "category": "Snippets",
+            "url": "https://codetogo.io/"
+        },
+        {
+            "name": "GitHub",
+            "description": "GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside millions of other developers.",
+            "status": true,
+            "category": "Development",
+            "url": "https://www.github.com"
+        },
+        {
+            "name": "MagicUi",
+            "description": "MagicUi is a collection of UI components for React, Angular, and Vue.",
+            "status": true,
+            "category": "UI Components",
+            "url": "https://magicui.io"
+        },
+        {
+            "name": "Mui",
+            "description": "Mui is a popular React UI framework. It is a great place to find components for your next project.",
+            "status": true,
+            "category": "UI Components",
+            "url": "https://mui.com"
+
+        },
+        {
+            "name": "Stack Overflow",
+            "description": "Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.",
+            "status": true,
+            "category": "Development",
+            "url": "https://stackoverflow.com"
+        },
+        {
+            "name": "UiVerse",
+            "description": "UiVerse is a collection of UI components the are free to use. You can find components. The Components in HTML and CSS",
+            "status": true,
+            "category": "UI Components",
+            "url": "https://uiverse.io/"
+        },
+        {
+            "name": "Web Gradients",
+            "description": "WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.",
+            "status": true,
+            "category": "Styling",
+            "url": "https://webgradients.com/"
+        }
+    ]
+}
