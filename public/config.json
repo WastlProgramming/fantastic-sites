@@ -10,6 +10,13 @@
             "url": "https://codetogo.io/"
         },
         {
+            "name": "CSS Generator",
+            "description": "Css Generator is a collection of tools for web developers. You can find tools for generating CSS, SVG, and more.",
+            "status": true,
+            "category": "Styling",
+            "url" : "https://cssgenerator.org/"
+        },
+        {
             "name": "GitHub",
             "description": "GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside millions of other developers.",
             "status": true,
@@ -21,7 +28,7 @@
             "description": "MagicUi is a collection of UI components for React, Angular, and Vue.",
             "status": true,
             "category": "UI Components",
-            "url": "https://magicui.io"
+            "url": "https://magicui.design/"
         },
         {
             "name": "Mui",
@@ -39,11 +46,25 @@
             "url": "https://stackoverflow.com"
         },
         {
+            "name": "shapedivider.app",
+            "description": "Shapedividier.app is a great place to find SVG shapes for your next project. You can customize the shapes to fit your needs.",
+            "status": true,
+            "category": "Styling",
+            "url": "https://www.shapedivider.app/"
+        },
+        {
             "name": "UiVerse",
             "description": "UiVerse is a collection of UI components the are free to use. You can find components. The Components in HTML and CSS",
             "status": true,
             "category": "UI Components",
             "url": "https://uiverse.io/"
+        },
+        {
+            "name": "WebCodeTools",
+            "description": "WebCodeTools is a collection of tools for web developers. You can find tools for generating CSS, SVG, and more.",
+            "status": true,
+            "category": "Styling",
+            "url": "https://webcode.tools/"
         },
         {
             "name": "Web Gradients",
