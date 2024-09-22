@@ -60,6 +60,13 @@
             "url": "https://uiverse.io/"
         },
         {
+            "name": "UI Beats",
+            "description": "UI Beats is a collection of Animated React Components and are open-source and free to use.",
+            "status": true,
+            "category": "UI Components",
+            "url": "https://uibeats.com/"
+        },
+        {
             "name": "WebCodeTools",
             "description": "WebCodeTools is a collection of tools for web developers. You can find tools for generating CSS, SVG, and more.",
             "status": true,
